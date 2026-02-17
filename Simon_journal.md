@@ -24,4 +24,4 @@ A PnP is not cheap. Than we have the even more difficult part, we will do a spli
 
 ### Begin design
 We started an shared onshape document to begin the design, tty7 began with the frame and i began with replicating the stepper with the connections. after a while i got here.
-![NEMA8 with nozzle holder and air connection](assets/NEMA8 with nozzle holder and air connection.png)
+![NEMA8 with nozzle holder and air connection](assets/NEMA8mockup.png)
