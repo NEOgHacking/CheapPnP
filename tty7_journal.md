@@ -1,6 +1,6 @@
 # Feb 19 - 4h
-tons of research, mostly part selection and figuring out frame and motion system a bit
+tons of research, mostly part selection and figuring out frame and motion system a bit  
 Got a mockup of the frame done:
 ![framemockup](assets/framemockup.png)
-also tons and tons of part sourcing and research:
+also tons and tons of part sourcing and research especially on the frame components:  
 ![partsourcing+research](assets/partsourcing+research.png)
